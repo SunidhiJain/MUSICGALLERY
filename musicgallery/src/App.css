@@ -1,0 +1,21 @@
+.item { 
+  display: inline-block;
+  margin: 0 0 1em;
+  width: 100%;
+}
+.av{
+  column-count: 2;
+  column-gap: 1em;
+}
+
+audio{
+  /* margin:50px; */
+  outline:none;
+}
+
+.pic{
+  background-image: url("headphone.jpg");
+}
+.pos{
+  vertical-align: top;
+}
